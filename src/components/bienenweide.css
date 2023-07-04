@@ -1,0 +1,14 @@
+.bienenweide-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.bienenweide-table th,
+.bienenweide-table td {
+  padding: 8px;
+  border: 1px solid #ccc;
+}
+
+.bienenweide-table th {
+  background-color: #f2f2f2;
+}
